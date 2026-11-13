@@ -1,3 +1,8 @@
+# Foundry build output (added for this project)
+cache/
+broadcast/
+out/
+
 # Logs
 logs
 *.log
